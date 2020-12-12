@@ -16,7 +16,10 @@ function App() {
  
   return (
     <div className="App">
-      <Typography className = {classes.typographyStyles} >
+      <Typography 
+      className = {classes.typographyStyles} 
+      gutterBottom
+      >
         What can I do for you!!
       </Typography>
 
