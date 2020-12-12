@@ -19,6 +19,9 @@ function App() {
       <Typography 
       variant = "h1"
       className = {classes.typographyStyles} 
+      variantMapping = {{
+          h1 : 'span'
+      }}
       // gutterBottom
       // noWrap 
       >
