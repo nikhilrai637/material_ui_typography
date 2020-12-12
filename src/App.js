@@ -19,8 +19,10 @@ function App() {
       <Typography 
       className = {classes.typographyStyles} 
       gutterBottom
+      noWrap
       >
         What can I do for you!!
+        What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!
       </Typography>
 
     </div>
