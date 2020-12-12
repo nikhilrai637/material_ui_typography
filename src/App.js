@@ -17,12 +17,12 @@ function App() {
   return (
     <div className="App">
       <Typography 
+      variant = "h1"
       className = {classes.typographyStyles} 
-      gutterBottom
-      noWrap
+      // gutterBottom
+      // noWrap 
       >
         What can I do for you!!
-        What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!What can I do for you!!
       </Typography>
 
     </div>
